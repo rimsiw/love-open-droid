@@ -49,3 +49,15 @@
 ## Calendar
 
 - [Etar](https://github.com/Etar-Group/Etar-Calendar) - Private calendar with sync :heart:
+
+## Camera
+
+- [GrapheneOS Camera](https://github.com/GrapheneOS/Camera) - Secure camera made by people behind GrapheneOS project
+
+## Chess
+
+- [Lichobile](https://github.com/lichess-org/lichobile) - Client for popular Lichess site
+
+## Cleaner
+
+- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - Extensive tool for system and app cleaning :package: :cat:
