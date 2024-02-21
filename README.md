@@ -23,6 +23,13 @@
 
 - [AdAway](https://github.com/AdAway/AdAway) :package:
 
+## Anime
+
+- [Dantotsu](https://github.com/rebelonion/Dantotsu#dantotsu) - Pretty anime viewer with AniList synchronization
+- [Aniyomi](https://github.com/aniyomiorg/aniyomi) - Tachiyomi (now Mihon) fork made for viewing anime, synchronization with AniList, Kitsu and MyAnimeList
+
+### Anime Trackers
+
 ## App Store
 *- this does not include F-Droid frontends!*
 
@@ -61,3 +68,12 @@
 ## Cleaner
 
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) - Extensive tool for system and app cleaning :package: :cat:
+
+## Device Synchronization
+
+- [KDE Connect](https://github.com/KDE/kdeconnect-kde) - Device synchronization tool made my KDE project
+
+## Dialer
+
+- [Koler](https://github.com/Chooloo/koler) - Simple phone app that looks great :heart:
+- [Fossify Phone](https://github.com/FossifyOrg/Phone) - Privacy-aware dialer
