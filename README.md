@@ -1,3 +1,5 @@
+this project is work in progress and is NOT finished by any means just yet, feel free to usw it tho!
+
 # Love Open Droid
 
 > love open droid is my project which tries to list great open source android apps which respect your privacy
