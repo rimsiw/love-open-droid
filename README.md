@@ -32,6 +32,10 @@ this project is work in progress and is NOT finished by any means just yet, feel
 
 ### Anime Trackers
 
+- [AniHyou](https://github.com/axiel7/AniHyou-android) - Unofficial AniList client
+- [Otraku](https://github.com/lotusprey/otraku) - Unofficial AniList client
+- [MoeList](https://moelist.net/#) - Unofficial MyAnimeList client
+
 ## App Store
 *- this does not include F-Droid frontends!*
 
