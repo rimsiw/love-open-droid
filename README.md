@@ -83,3 +83,9 @@ this project is work in progress and is NOT finished by any means just yet, feel
 
 - [Koler](https://github.com/Chooloo/koler) - Simple phone app that looks great :heart:
 - [Fossify Phone](https://github.com/FossifyOrg/Phone) - Privacy-aware dialer
+
+## Gaming
+
+### Emulation
+
+- [Lemuroid](https://github.com/Swordfish90/Lemuroid) - AIO emulator for Android using Libretro
